@@ -24,7 +24,7 @@ Imagine needing something when you are at home and getting it before you have ti
 ## Screenshots
 
 ![TEST SUMMARY REPORT](https://user-images.githubusercontent.com/108527290/176892915-158626f8-cf97-4405-ad75-7db1b7b04296.jpg)
-                                           ***TEST SUMMARY REPORT***
+                                           *** IMAGE 1 TEST SUMMARY REPORT***
 
 
                                            
